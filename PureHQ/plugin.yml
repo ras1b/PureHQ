@@ -1,0 +1,72 @@
+name: PureHQ
+main: me.ras1b.PureHQ.PureHQMain
+version: 0.0.1
+commands:
+  gmc:
+    description: change your gamemode to creative
+    usage: /<command>
+    aliases: [gm1]
+  gms:
+    description: change your gamemode to survival
+    usage: /<command>
+    aliases: [gm0]
+  gma:
+    description: change your gamemode to adventure
+    usage: /<command>
+    aliases: [gm2]
+  gm:
+    description: change your gamemode
+    usage: /<command>
+  staffchat:
+    description: chat for staff only [on/off]
+    usage: /<command>
+    aliases: [sc, staffc]
+  balance:
+    description: check your balance
+    usage: /<command>
+    aliases: [bal]
+  clearinventory:
+    description: clear the inventory of a player
+    usage: /<command>
+    aliases: [ci]
+  teleporthere:
+    description: teleport someone to yourself
+    usage: /<command>
+    aliases: [tphere]
+  teleportall:
+    description: teleport everyone to yourself
+    usage: /<command>
+    aliases: [tpall]
+  teleport:
+    description: teleport someone
+    usage: /<command>
+    aliases: [tp]
+  key:
+    description: check/add/remove keys
+    usage: /<command>
+    aliases: [k]
+  crate:
+    description: add/remove crates
+    usage: /<command>
+    aliases: [c]
+  withdraw:
+    description: witdraw money
+    usage: /<command>
+  pay:
+    description: send money to another player
+    usage: /<command>
+  heal:
+    description: heal yourself or someone else
+    usage: /<command>
+  feed:
+    description: feed yourself or someone else
+    usage: /<command>
+  rank:
+    description: command to add/change/remove ranks
+    usage: /<command>
+  claim:
+    description: command to redeem keys/lives
+    usage: /<command>
+  lives:
+    description: command for the lives system
+    usage: /<command>
