@@ -1,4 +1,4 @@
-# PureHQ (2017-2023)
+# PureHQ Core (2017-2023)
 
 To build the plugin:
 - Download this repository (master-branch)
