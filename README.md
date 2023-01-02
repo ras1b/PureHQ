@@ -7,3 +7,5 @@ To build the plugin:
 - Go to: File > Import > General > Existing project
 - Choose the root directory of the repository
 - Export as usual
+
+previously purehq.org (Software used on StackMC, RivenHCF, RealHCF)
