@@ -1,4 +1,4 @@
-# PureHQ (2017-2023)
+# PureHQ Core (2017-2023)
 
 To build the plugin:
 - Download this repository (master-branch)
@@ -7,3 +7,5 @@ To build the plugin:
 - Go to: File > Import > General > Existing project
 - Choose the root directory of the repository
 - Export as usual
+
+previously purehq.org (Software used on StackMC, RivenHCF, RealHCF)
